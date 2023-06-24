@@ -1,0 +1,12 @@
+.bodyBackground
+{
+    background-image: url("https://classic.exame.com/wp-content/uploads/2022/12/gettyimages-1450099877-594x594-1.jpg?quality=70&strip=info&w=594");
+
+    background-position: center;
+    background-size: cover;
+    }
+    #myCanvas
+    {
+        border-width: 10px;
+        background-color: rgb(255, 255, 255);
+        border-style: ridge;
